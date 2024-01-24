@@ -7,7 +7,13 @@ function error404 () {
         <Def>
             <main>
                 <h1>404: PAGE NOT FOUND</h1>
-                <p>Oops, sorry, we can't find this page!</p>
+                <div>
+                <img src="/images/boner-zone.jpg" alt="Heart Candy"/>
+                </div>
+                Photo by <a href="https://unsplash.com/@patrickperkins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Perkins</a> on <a href="https://unsplash.com/photos/white-and-black-no-smoking-sign-6GPnG1H3njI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
+                <p>Oops, sorry, Because you are here and not there... You must be having a HARD TIME! We can't find this page!</p>
             </main>
         </Def>
     )
