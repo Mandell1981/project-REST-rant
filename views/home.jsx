@@ -8,7 +8,7 @@ function home () {
             <main>
                 <h1>HOME</h1>
                 <div>
-                    <img src="public/css/images/Noodles bowl.jpg" alt="Ramen Bowl"/>
+                    <img src="/images/noodles-bowl.jpg" alt="Ramen Bowl"/>
                      <div>
                      Photo by <a href="https://unsplash.com/@bonvivant?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bon Vivant</a> on <a href="https://unsplash.com/photos/ramen-dish-qom5MPOER-I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
                      </div>
