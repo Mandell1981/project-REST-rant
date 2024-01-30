@@ -1,12 +1,12 @@
 body {
-    background-color: grey;
+    background-color: lightsteelblue;
     text-align: center;
 }
 
 main {
     margin-right: 20px;
     margin-left: 20px;
-    background-color:whitesmoke;
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -15,14 +15,16 @@ h1 {
 }
 
 img {
-    width: 250px;
-    height: 250px;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    display: block;
     align-content: center;
     align-items: center;
 }
 
 nav {
-    background-color: cornflowerblue;
+    background-color: dodgerblue;
     padding: 10px;
 }
 
@@ -37,7 +39,7 @@ nav li {
 }
 
 nav a {
-    color: whitesmoke;
+    color: white;
     font-size: 1.5em;
 }
 
