@@ -13,7 +13,7 @@ function error404 () {
                 Photo by <a href="https://unsplash.com/@patrickperkins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Perkins</a> on <a href="https://unsplash.com/photos/white-and-black-no-smoking-sign-6GPnG1H3njI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
   
-                <p>Oops! Sorry, because you are Here and not There... You must be having a HARD TIME! We can't find this page!</p>
+                <p>Oops! Looks like you're having a HARD TIME! Sorry, we can't find this page!</p>
             </main>
         </Def>
     )
