@@ -12,7 +12,7 @@ db.Place.create ([{
     city: 'Pheonix',
     state: 'AZ',
     cuisines: 'Coffee, Bakery',
-    pic: '/images/coffee-cat.jpg',
+    pic: '/images/cafe.jpg',
     founded: 2020
 }])
 .then(() => {
