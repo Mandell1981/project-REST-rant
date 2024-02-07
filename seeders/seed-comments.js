@@ -5,7 +5,7 @@ async function seed () {
     // Get the place, H-Thai-Ml
     let place = await db.Place.findOne({ name: 'H-Thai-ML'})
     // Create a fake sample comment
-    let comment = await db.Comment.create({
+    let comment = await db.Comments.create({
         author: 'Famished Fran',
         rant: false,
         stars: 5.0,

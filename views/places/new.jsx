@@ -5,6 +5,15 @@ function new_form (data) {
     // To Generate Message
     let message = ''
     if (data.message) {
+        let sumRatings = data.place.comments.reduce((tot, c) => {
+            return tot + c.stars
+        }, 0)
+        let averageRating = sumRatings / data.place.comments.length
+        rating = (
+            <h3>
+                {Math.round(averageRating)} stars
+            </h3>
+        )
         message = (
             <h4 className="alert-danger">
                 {data.message}
