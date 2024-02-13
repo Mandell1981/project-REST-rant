@@ -1,18 +1,20 @@
 body {
-    background-color: lightsteelblue;
+    background-color: yellow;
     text-align: center;
 }
 
 main {
     margin-right: 20px;
     margin-left: 20px;
-    background-color: whitesmoke;
+    background-color: yellow;
 }
 
 h1 {
     text-align: center;
-    color: dodgerblue;
+    color: maroon;
 }
+
+
 
 img {
     width: 50%;
@@ -24,7 +26,7 @@ img {
 }
 
 nav {
-    background-color: dodgerblue;
+    background-color: maroon;
     padding: 10px;
 }
 
