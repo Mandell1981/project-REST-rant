@@ -8,11 +8,25 @@ db.Place.create ([{
     pic: '/images/fresh-soup.jpg',
     founded: 1989
 }, {
+    name: 'Golden Krust Caribbean Restaurant',
+    city: 'Raleigh',
+    state: 'NC',
+    cuisines: 'Caribbean Restaurant',
+    pic: '/images/golden-krust.jpg',
+    founded: 2019
+}, {
+    name: 'Big Eds',
+    city: 'Raleigh',
+    state: 'NC',
+    cuisines: 'Southern Farm Fresh Country Breaskfast',
+    pic: '/images/cafe.jpg',
+    founded: 2020
+}, {
     name: 'Coding Cat Cafe',
     city: 'Pheonix',
     state: 'AZ',
     cuisines: 'Coffee, Bakery',
-    pic: '/images/cafe.jpg',
+    pic: '/images/coding-cat.jpg',
     founded: 2020
 }])
 .then(() => {

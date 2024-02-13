@@ -83,7 +83,7 @@ router.delete('/:id', (req, res) => {
 router.get('/places/:id/edit', (req, res) => {
   db.Place.findById(req.params.id)
   .then(place => {
-    res.render('places/edit', {place} )
+    res.render('place/edit', {place} )
   })
   .catch(err => {
     res.render('error404')
